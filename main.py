@@ -2,6 +2,9 @@ import sys
 import pygame
 
 
+'https://disk.yandex.ru/d/wNupctkyKBAODw' # ссылка на диск со спрайтами
+
+
 COLORS = [pygame.Color('black'), pygame.Color('DarkGrey'),  pygame.Color('SaddleBrown'), pygame.Color(0, 128, 0), pygame.Color('red'), pygame.Color('Gainsboro')]
 SPRITES = [pygame.image.load('test2.png'), pygame.image.load('test4.png'), pygame.image.load('wall.png'), pygame.image.load('grass.png'), pygame.image.load('bee_on_grass.png')]
 
